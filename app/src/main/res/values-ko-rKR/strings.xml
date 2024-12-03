@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">도움말 신청</string>
+    <string name="action_help">도움말 센터</string>
+    <string name="description">AHEMCE 지속 가능성 게시판은 회사와 자회사의 지속 가능성 성과를 보고하기 위해 PT United Tractors Tbk가 발행한 게시판입니다. AHEMCE 자체는 United Tractors의 주요 사업 부문인 Astra Heavy Equipment, Mining, Construction, and Energy의 약자입니다.</string>
+    <string name="nougat">AHEMCE 지속 가능성 게시판</string>
+    <string name="help_text">서신을 보내려면 United Tractors 기업 커뮤니케이션 팀에 문의하세요.</string>
+    <string name="dial_log_message">전화를 걸 수 없습니다</string>
+    <string name="action_language">언어 선택</string>
+    <string name="expired_label">생산 종료 날짜</string>
+    <string name="hitung">가격 계산</string>
+    <string name="Head1">미디어 출판물</string>
+</resources>

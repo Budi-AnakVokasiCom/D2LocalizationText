@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق المساعدة</string>
+    <string name="action_help">مركز المساعدة</string>
+    <string name="description">نشرة AHEMCE للاستدامة هي نشرة تنشرها شركة PT United Tractors Tbk للإبلاغ عن أداء الاستدامة للشركة والشركات التابعة لها. AHEMCE نفسها هي اختصار لاسم Astra للمعدات الثقيلة والتعدين والبناء والطاقة، وهو قطاع الأعمال الرئيسي لشركة United Tractors.</string>
+    <string name="nougat">نشرة الاستدامة AHEMCE</string>
+    <string name="help_text">للمراسلات، يرجى الاتصال بفريق الاتصالات المؤسسية لشركة United Tractors</string>
+    <string name="dial_log_message">لا يمكن إجراء المكالمة</string>
+    <string name="action_language">اختر اللغة</string>
+    <string name="expired_label">تاريخ انتهاء الإنتاج</string>
+    <string name="hitung">حساب السعر</string>
+    <string name="Head1">منشورات إعلامية</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hulp-applicatie</string>
+    <string name="action_help">Helpcentrum</string>
+    <string name="description">AHEMCE Sustainability Bulletin is een bulletin uitgegeven door PT United Tractors Tbk om de duurzaamheidsprestaties van het bedrijf en haar dochterondernemingen te rapporteren. AHEMCE zelf is een afkorting voor Astra Heavy Equipment, Mining, Construction, and Energy, de belangrijkste bedrijfssector van United Tractors.</string>
+    <string name="nougat">AHEMCE Duurzaamheidsbulletin</string>
+    <string name="help_text">Voor correspondentie kunt u contact opnemen met het United Tractors Corporate Communication Team</string>
+    <string name="dial_log_message">Er kan niet worden gebeld</string>
+    <string name="action_language">Selecteer Taal</string>
+    <string name="expired_label">Einddatum productie</string>
+    <string name="hitung">Bereken prijs</string>
+    <string name="Head1">Mediapublicaties</string>
+</resources>

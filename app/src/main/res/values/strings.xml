@@ -1,0 +1,26 @@
+<resources>
+    <!-- All comments are notes to translators. -->
+    <string name="app_name">Help Application</string>
+
+    <!-- The Help option in the options menu, no more than 30 chars. -->
+    <string name="action_help">Help Center</string>
+
+    <!-- The description includes a parenthetical expression.  -->
+    <string name="description">AHEMCE Sustainability Bulletin is a bulletin published by PT United Tractors Tbk to report the sustainability performance of the company and its subsidiaries. AHEMCE itself is an abbreviation of Astra Heavy Equipment, Mining, Construction, and Energy, which is United Tractors\' main business sector.</string>
+
+    <!-- The product name includes "Package" to define a pack.  -->
+    <string name="nougat">AHEMCE Sustainability Bulletin</string>
+
+    <!-- Do not translate.  -->
+
+    <!-- Support Department should be capitalized.  -->
+    <string name="help_text">Correspondence can contact the United Tractors Corporate Communication Team</string>
+
+    <!-- Do not translate.  -->
+    <string name="dial_log_message">Call Cannot Be Made</string>
+    <string name="action_language">Select Language</string>
+    <string name="expired_label">Production End Date</string>
+    <string name="hitung">Calculate Price</string>
+    <string name="support_phone" translatable="false">+62811139565</string>
+    <string name="Head1">Media Publication</string>
+</resources>
